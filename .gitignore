@@ -17,7 +17,38 @@
 *.ear
 *.zip
 *.tar.gz
-*.rar
 
+*.rar
+*.idea
+target/surefire-reports/AlexTheLionTest.txt
+target/surefire-reports/AnimalTest.txt
+target/surefire-reports/CatTest.txt
+target/surefire-reports/FelineTest.txt
+target/surefire-reports/LionParameterizedTest.txt
+target/surefire-reports/LionTest.txt
+target/surefire-reports/PredatorTest.txt
+target/surefire-reports/TEST-AlexTheLionTest.xml
+target/surefire-reports/TEST-AnimalTest.xml
+target/surefire-reports/TEST-CatTest.xml
+target/surefire-reports/TEST-FelineTest.xml
+target/surefire-reports/TEST-LionParameterizedTest.xml
+target/surefire-reports/TEST-LionTest.xml
+target/surefire-reports/TEST-PredatorTest.xml
+target/surefire-reports/TEST-TestCat.xml
+target/surefire-reports/TEST-TestCatGetFood.xml
+target/surefire-reports/TEST-TestCatSound.xml
+target/surefire-reports/TestCat.txt
+target/surefire-reports/TestCatGetFood.txt
+target/surefire-reports/TestCatSound.txt
+ target/.DS_Store
+ target/classes/read.me
+ target/generated-test-sources/.DS_Store
+ target/maven-archiver/pom.properties
+ target/maven-status/.DS_Store
+ target/maven-status/maven-compiler-plugin/.DS_Store
+ target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+ target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+ target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+ target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
